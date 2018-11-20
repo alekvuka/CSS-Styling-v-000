@@ -44,6 +44,6 @@ figcaption {
 
 /*Descended Selector */
 #logo h1 { /*only style h1 if they are inside the id='logo'*/
-  font-family: "Clicker Script"
+  font-family: "Clicker Script", cursive
 
 }
